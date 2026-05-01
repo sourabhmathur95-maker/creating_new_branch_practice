@@ -1,2 +1,6 @@
 a = "Hello World"
 print(a)
+
+b = 2
+c = 2
+print(b + c)
